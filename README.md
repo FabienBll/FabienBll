@@ -9,7 +9,6 @@ I am a student in BTS Services Informatiques aux Organisations (SIO) - Solutions
 * 🌍  I'm based in Melun (France)
 * 🖥️  See my portfolio at [My website](http://ballereau.eu)
 * ✉️  You can contact me at [fabien.ballereau@gmail.com](mailto:fabien.ballereau@gmail.com)
-* 🧠  I'm learning CISCO CCNA
 
 
 ### Socials
