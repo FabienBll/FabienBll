@@ -6,8 +6,7 @@ IT Student
 
 I am a student in BTS Services Informatiques aux Organisations (SIO) - Solutions d'Infrastructure, Systèmes et Réseaux (SISR). I enjoy managing company networks and automating various actions with scripts.
 
-* 🌍  I'm based in Melun (France)
-* 🖥️  See my portfolio at [My website](http://ballereau.eu)
+* 🌍  I'm based in Seine-et-Marne (France)
 * ✉️  You can contact me at [fabien.ballereau@gmail.com](mailto:fabien.ballereau@gmail.com)
 
 
