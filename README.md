@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Student
 ----------
 
-I am a student in Licence professionnelle Métiers de l'informatique : Administration et Sécurité des Systèmes et des réseaux - Parcours Réseaux d'entreprises. I enjoy managing company networks and automating various actions with scripts.
+I am a student in Master : Système, Réseau et Cloud Computing at ESGI. I enjoy managing company networks and automating various actions with scripts.
 
 * 🌍  I'm based in Seine-et-Marne (France)
 * ✉️  You can contact me at [fabien.ballereau@gmail.com](mailto:fabien.ballereau@gmail.com)
